@@ -1,4 +1,4 @@
-# Flask Boilerplat
+# Flask Boilerplate
  Staring code to quickly spin up or prototype a web app.
  
 ## Install
@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
