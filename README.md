@@ -1,5 +1,5 @@
-# flask-boilerplate
- Flask boilerplate for prototyping
+# Flask Boilerplat
+ Staring code to quickly spin up or prototype a web app.
  
 ##Usage
 ```python
